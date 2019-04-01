@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="gameAction" width="400" height="300" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="185" height="39" x="108" y="130.5" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x0d7fe5"/>
+	<e:Button label="Button" anchorOffsetX="9250" anchorOffsetY="40" width="185" height="40" horizontalCenter="0" verticalCenter="0"/>
+	<e:Label text="开始游戏" size="23" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>
